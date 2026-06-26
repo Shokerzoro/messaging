@@ -1,3 +1,6 @@
+# Versioning
+project(serverbrige VERSION 0.0.1 LANGUAGES CXX)
+
 # Sources
 include(cmake/sources.cmake)
 
